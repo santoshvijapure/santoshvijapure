@@ -21,7 +21,7 @@ Hi, I'm [Santosh Vijapure](http://santoshvijapure.github.io), a passionate self-
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/santoshvijapure/santoshvijapure/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/santoshvijapure/santoshvijapure/main/code.gif" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@santoshvijapure](https://twitter.com/sant0shvijapure);
