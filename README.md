@@ -50,4 +50,4 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santoshvijapure&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center" style="margin-top:2rem;"> <img src="https://github-readme-stats.vercel.app/api?username=santoshvijapure&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
