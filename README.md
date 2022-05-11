@@ -10,7 +10,7 @@
   <img align="left" alt="Santosh Vijapure" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/voecaoaaybl3f3j7twvxgzu9t?si=83ceaad6c1c74add">
-  <img align="left" alt="Santosh Vijapure" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Santosh Vijapure" width="22px" src="https://img.icons8.com/fluency/344/spotify.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=santoshvijapure.santoshvijapure)
